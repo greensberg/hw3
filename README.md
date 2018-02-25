@@ -2,6 +2,6 @@
 
 Опрос прошло 105 человек.
 
-[Ссылка на таблицу](https://docs.google.com/spreadsheets/d/1OmnaDiE2YXKB6UGYjlJZT-0i-YEbxZWijavnJNcne_M/edit?usp=sharing)
+[Ссылка на таблицу](https://docs.google.com/spreadsheets/d/1OmnaDiE2YXKB6UGYjlJZT-0i-YEbxZWijavnJNcne_M/edit?usp=sharing) (диаграммы на отдельных листах)
 
 [Ссылка на опрос](https://docs.google.com/forms/d/e/1FAIpQLSfnmVBj7vKQ7tzdTuY8L_LYtxw1NvidxyzKIAMaXWhCF8zyMg/viewform?usp=sf_link)
